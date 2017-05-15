@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91d0044da476ce504770e9a4661d57c516613bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_dc2d718eec780bbe22cf0b02834b67d054ce853a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8aaeb3c9370666b989d8fb0f9562b4018e35a235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_4188e38ec8e91c4f11b235fb70fcc896b3f2e9ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_73040947e6029ab04dd9f7679e3fc310ae63c693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_822b6ca71094e083b24f42efd144cd92e568e40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8f0eb92ff2414863354ee97c70e9888bc363b62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a70efbcb922c14d362d5667243fe13ab52779ac5">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c9a78ed0911c48173837542b33e9be12e7e09a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9f1d7806954027d7a48314d94c38bc82a772b256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c3018a69087976a9078ae294967e58ae7c595a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_a241ba1e23d1ad38105b4ac889a9c3267a7b6435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_822b6ca71094e083b24f42efd144cd92e568e40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_73040947e6029ab04dd9f7679e3fc310ae63c693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_47368260ea80fa8afdf94aac604dea1ff42bbe74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9bb78dfda2ce3a201fb87262273832c64e74eb88">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/instant-run_567711f35ff6f9195a2af4f42b17aa4c99e95b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5ab099f58ec38c97e12d564d6487879f2786fef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9f1d7806954027d7a48314d94c38bc82a772b256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c8aedabb965a1f7ee38356ea51b066192cceb2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0452b763453205b4f3dbb78eeb837143b273f144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_47368260ea80fa8afdf94aac604dea1ff42bbe74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_a241ba1e23d1ad38105b4ac889a9c3267a7b6435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_5f93702ddd204af1f51403f024480f64393be5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91d0044da476ce504770e9a4661d57c516613bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_4188e38ec8e91c4f11b235fb70fcc896b3f2e9ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c8aedabb965a1f7ee38356ea51b066192cceb2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5ab099f58ec38c97e12d564d6487879f2786fef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8aaeb3c9370666b989d8fb0f9562b4018e35a235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0452b763453205b4f3dbb78eeb837143b273f144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8f0eb92ff2414863354ee97c70e9888bc363b62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_5f93702ddd204af1f51403f024480f64393be5fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c3018a69087976a9078ae294967e58ae7c595a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Praveen/Downloads/TicTacToe2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_dc2d718eec780bbe22cf0b02834b67d054ce853a.jar" />
+    </item>
+
+</items>
